@@ -1,4 +1,4 @@
-## Scaffold Education - WSL 2
+## WSL 2
 
 Esse guia tem como objetivo preparar seu ambiente no windows para configurar a plataforma;
 
